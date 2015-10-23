@@ -30,7 +30,6 @@ public class Driver{
 					break;
 				}
 				
-				
 			}
 			line++;
 			scan.nextLine();
